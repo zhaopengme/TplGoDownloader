@@ -7,5 +7,7 @@
 运行 `main.exe` 就可以下载了!
 
 ## 代码说明
-使用 [github.com/magiconair/properties](github.com/magiconair/properties) 读取配置.  
-使用[github.com/lealife/leacrawler](github.com/lealife/leacrawler) 来爬去下载模板.
+使用 [https://github.com/magiconair/properties](https://github.com/magiconair/properties) 读取配置.  
+使用[https://github.com/lealife/leacrawler](https://github.com/lealife/leacrawler) 来爬去下载模板.
+
+![]()
