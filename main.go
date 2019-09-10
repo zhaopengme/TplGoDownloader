@@ -1,8 +1,8 @@
 package main
 import (
-	"github.com/magiconair/properties"
-	"github.com/lealife/leacrawler"
 	"fmt"
+	"github.com/zhaopengme/tpldownloader/lib/github.com/lealife/leacrawler"
+	"github.com/zhaopengme/tpldownloader/lib/github.com/magiconair/properties"
 )
 
 func main() {
